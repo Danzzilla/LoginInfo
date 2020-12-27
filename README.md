@@ -4,7 +4,7 @@ In this program the user inputs user account credentials and the program outputs
 * This program was originally created on 11/2/2020
 
 ## What I've learned
-* Printstream
+* Printstream 
 * Files
 * Throwing exceptions
 * .equals() .equalsIgnoreCase()
